@@ -56,8 +56,6 @@ Average Purchase Price
 Total Purchase Value
 
 
-
-
 ## Most Popular Items
 
 Identify the 5 most popular items by purchase count, then list (in a table):
@@ -67,8 +65,6 @@ Item Name
 Purchase Count
 Item Price
 Total Purchase Value
-
-
 
 
 ## Most Profitable Items
@@ -83,4 +79,6 @@ Total Purchase Value
 
 ## 3 Conclusions Drawn From The Data
 
-1. 
+1. Over 70% of players are between the age of 15-29.
+2. Males make up the majority of players, but females have a higher average purchase price.
+3. Players between the ages of 35-39 have the highest average purchase person of $4.76.
